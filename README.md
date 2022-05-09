@@ -20,3 +20,5 @@
 * **squidpy** [paper](https://www.nature.com/articles/s41592-021-01358-2) - [code](https://squidpy.readthedocs.io/en/latest/): Squidpy: a scalable framework for spatial omics analysis
 * **ncem** [paper](https://www.biorxiv.org/content/10.1101/2021.07.11.451750v1) - [code](https://ncem.readthedocs.io/en/latest/): Learning cell communication from spatial graphs of cells
 * [Spatially informed cell-type deconvolution for spatial transcriptomics](https://www.nature.com/articles/s41587-022-01273-7) Here, we introduce a deconvolution method, conditional autoregressive-based deconvolution (CARD), that combines cell-type-specific expression information from single-cell RNA sequencing (scRNA-seq) with correlation in cell-type composition across tissue locations. https://github.com/YingMa0107/CARD
+* Reconstruction of the cell pseudo-space from single-cell RNA sequencing data with [scSpace](https://www.biorxiv.org/content/10.1101/2022.05.07.491043v1)
+* [SpatialCorr](https://www.biorxiv.org/content/10.1101/2022.02.04.479191v1.full): Identifying Gene Sets with Spatially Varying Correlation Structure
