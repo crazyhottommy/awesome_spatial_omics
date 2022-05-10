@@ -25,4 +25,5 @@
 * Reconstruction of the cell pseudo-space from single-cell RNA sequencing data with [scSpace](https://www.biorxiv.org/content/10.1101/2022.05.07.491043v1)
 * [SpatialCorr](https://www.biorxiv.org/content/10.1101/2022.02.04.479191v1.full): Identifying Gene Sets with Spatially Varying Correlation Structure
 * [RCTD](https://www.nature.com/articles/s41587-021-00830-w): Robust decomposition of cell type mixtures in spatial transcriptomics
+* [Supervised spatial inference of dissociated single-cell data with SageNet](https://www.biorxiv.org/content/10.1101/2022.04.14.488419v1): a graph neural network approach that spatially reconstructs dissociated single cell data using one or more spatial references. [code](https://github.com/MarioniLab/SageNet)
 
