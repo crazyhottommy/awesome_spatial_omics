@@ -3,6 +3,7 @@
 ### review papers
 
 * [Statistical and machine learning methods for spatially resolved transcriptomics data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02653-7). first author Zexian was my colleague when I was at DFCI.
+* [Spatial omics and multiplexed imaging to explore cancer biology](https://www.nature.com/articles/s41592-021-01203-6)
 
 ### tutorial
 
@@ -23,3 +24,5 @@
 * [Spatially informed cell-type deconvolution for spatial transcriptomics](https://www.nature.com/articles/s41587-022-01273-7) Here, we introduce a deconvolution method, conditional autoregressive-based deconvolution (CARD), that combines cell-type-specific expression information from single-cell RNA sequencing (scRNA-seq) with correlation in cell-type composition across tissue locations. https://github.com/YingMa0107/CARD
 * Reconstruction of the cell pseudo-space from single-cell RNA sequencing data with [scSpace](https://www.biorxiv.org/content/10.1101/2022.05.07.491043v1)
 * [SpatialCorr](https://www.biorxiv.org/content/10.1101/2022.02.04.479191v1.full): Identifying Gene Sets with Spatially Varying Correlation Structure
+* [RCTD](https://www.nature.com/articles/s41587-021-00830-w): Robust decomposition of cell type mixtures in spatial transcriptomics
+
