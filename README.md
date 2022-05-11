@@ -4,6 +4,9 @@
 
 * [Statistical and machine learning methods for spatially resolved transcriptomics data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02653-7). first author Zexian was my colleague when I was at DFCI.
 * [Spatial omics and multiplexed imaging to explore cancer biology](https://www.nature.com/articles/s41592-021-01203-6)
+* [Method of the Year: spatially resolved transcriptomics](https://www.nature.com/articles/s41592-020-01033-y)
+* [Computational challenges and opportunities in spatially resolved transcriptomic data analysis](https://www.nature.com/articles/s41467-021-25557-9) by Jean Fan.
+* [Spatial components of molecular tissue biology](https://www.nature.com/articles/s41587-021-01182-1)
 
 ### tutorial
 
