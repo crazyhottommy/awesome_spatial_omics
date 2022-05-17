@@ -36,6 +36,8 @@
 * [RCTD](https://www.nature.com/articles/s41587-021-00830-w): Robust decomposition of cell type mixtures in spatial transcriptomics
 * [Supervised spatial inference of dissociated single-cell data with SageNet](https://www.biorxiv.org/content/10.1101/2022.04.14.488419v1): a graph neural network approach that spatially reconstructs dissociated single cell data using one or more spatial references. [code](https://github.com/MarioniLab/SageNet)
 * [SpotClean adjusts for spot swapping in spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2021.06.11.448105v3.full): A quality issue in spatial transcriptomics data, and a statistical method to adjust for it. [R Package](https://github.com/zijianni/SpotClean).
+* [Nonnegative spatial factorization](https://arxiv.org/abs/2110.06122)
+* [SPICEMIX: Integrative single-cell spatial modeling of cell identity](https://www.biorxiv.org/content/10.1101/2020.11.29.383067v3)
 
 ### Interactive tool
 
