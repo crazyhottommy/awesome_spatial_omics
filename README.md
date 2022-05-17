@@ -12,6 +12,10 @@
 
 * [Deconvolution vs Clustering Analysis for Multi-cellular Pixel-Resolution Spatially Resolved Transcriptomics Data](https://jef.works/blog/2022/05/03/deconvolution-vs-clustering/) A blog post by Jean Fan.
 
+### benchmarking 
+
+* [Benchmarking spatial and single-cell transcriptomics integration methods for transcript distribution prediction and cell type deconvolution](https://www.nature.com/articles/s41592-022-01480-9) We found that Tangram, gimVI, and SpaGE outperformed other integration methods for predicting the spatial distribution of RNA transcripts, whereas Cell2location, SpatialDWLS, and RCTD are the top-performing methods for the cell type deconvolution of spots.
+
 ### methods
 
 [In situ polyadenylation enables spatial mapping of the total transcriptome](https://www.biorxiv.org/content/10.1101/2022.04.20.488964v1)
