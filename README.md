@@ -22,6 +22,7 @@
 
 ### tools
 
+* [nnSVG](https://www.biorxiv.org/content/10.1101/2022.05.16.492124v1): scalable identification of spatially variable genes using nearest-neighbor Gaussian processes
 * [DestVI](https://www.nature.com/articles/s41587-022-01272-8) identifies continuums of cell types in spatial transcriptomics data. DestVI is available as part of the open-source software package scvi-tools (https://scvi-tools.org).
 * Here we present [spateo](https://spateo-release.readthedocs.io/en/latest/), a open source framework that welcomes community contributions for quantitative spatiotemporal modeling of spatial transcriptomics.
 * [SpaGene]( https://biorxiv.org/content/10.1101/2022.04.20.488961v1.full.pdf
