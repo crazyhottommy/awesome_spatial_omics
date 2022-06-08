@@ -38,6 +38,7 @@
 * [SpotClean adjusts for spot swapping in spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2021.06.11.448105v3.full): A quality issue in spatial transcriptomics data, and a statistical method to adjust for it. [R Package](https://github.com/zijianni/SpotClean).
 * [Nonnegative spatial factorization](https://arxiv.org/abs/2110.06122)
 * [SPICEMIX: Integrative single-cell spatial modeling of cell identity](https://www.biorxiv.org/content/10.1101/2020.11.29.383067v3)
+* [De novo reconstruction of cell interaction landscapes from single-cell spatial transcriptome data with DeepLinc](https://pubmed.ncbi.nlm.nih.gov/35659722/)
 
 ### Interactive tool
 
