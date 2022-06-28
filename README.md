@@ -43,6 +43,10 @@
 * [Bayesian Modeling of Spatial Molecular Profiling Data via Gaussian Process](https://arxiv.org/abs/2012.03326)
 * [Decoding functional cell-cell communication events by multi-view graph learning on spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2022.06.22.496105v1)
 
+### imputation
+
+* [Accurate inference of genome-wide spatial expression with iSpatial](https://www.biorxiv.org/content/10.1101/2022.05.23.493144v2)
+
 ### Interactive tool
 
 * [VITESSCE](https://github.com/vitessce/vitessce) Visual Integration Tool for Exploration of Spatial Single-Cell Experiments
