@@ -41,6 +41,7 @@
 * [SPICEMIX: Integrative single-cell spatial modeling of cell identity](https://www.biorxiv.org/content/10.1101/2020.11.29.383067v3)
 * [De novo reconstruction of cell interaction landscapes from single-cell spatial transcriptome data with DeepLinc](https://pubmed.ncbi.nlm.nih.gov/35659722/)
 * [Bayesian Modeling of Spatial Molecular Profiling Data via Gaussian Process](https://arxiv.org/abs/2012.03326)
+* [Decoding functional cell-cell communication events by multi-view graph learning on spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2022.06.22.496105v1)
 
 ### Interactive tool
 
