@@ -42,7 +42,7 @@
 * [De novo reconstruction of cell interaction landscapes from single-cell spatial transcriptome data with DeepLinc](https://pubmed.ncbi.nlm.nih.gov/35659722/)
 * [Bayesian Modeling of Spatial Molecular Profiling Data via Gaussian Process](https://arxiv.org/abs/2012.03326)
 * [Decoding functional cell-cell communication events by multi-view graph learning on spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2022.06.22.496105v1)
-* [BANKSY](https://www.biorxiv.org/content/10.1101/2022.04.14.488259v1) unifies cell type clustering and domain segmentation on spatial omics data by constructing a product space of cell and neighborbood transcriptomes representing cell states and microenvironment. [R](https://github.com/prabhakarlab/Banksy) and [python](https://github.com/prabhakarlab/Banksy_py) code.  
+* [BANKSY](https://www.biorxiv.org/content/10.1101/2022.04.14.488259v1) unifies cell-type clustering and domain segmentation by constructing a product space of cells' own and microenvironment transcriptomes. [R](https://github.com/prabhakarlab/Banksy) and [python](https://github.com/prabhakarlab/Banksy_py) code.  
 
 ### imputation
 
