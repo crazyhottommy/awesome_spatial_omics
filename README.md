@@ -2,6 +2,7 @@
 
 ### review papers
 
+* [The emerging landscape of spatial profiling technologies](https://www.nature.com/articles/s41576-022-00515-3)
 * [Statistical and machine learning methods for spatially resolved transcriptomics data analysis](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02653-7). first author Zexian was my colleague when I was at DFCI.
 * [Spatial omics and multiplexed imaging to explore cancer biology](https://www.nature.com/articles/s41592-021-01203-6)
 * [Method of the Year: spatially resolved transcriptomics](https://www.nature.com/articles/s41592-020-01033-y)
