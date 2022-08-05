@@ -43,6 +43,14 @@
 * [Bayesian Modeling of Spatial Molecular Profiling Data via Gaussian Process](https://arxiv.org/abs/2012.03326)
 * [Decoding functional cell-cell communication events by multi-view graph learning on spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2022.06.22.496105v1)
 
+
+### clustering
+
+* [BASS: multi-scale and multi-sample analysis enables accurate cell type clustering and spatial domain detection in spatial transcriptomic studies](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02734-7)
+
+* [DeepST: A versatile graph contrastive learning framework for spatially informed clustering, integration, and deconvolution of spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2022.08.02.502407v1)
+
+
 ### imputation
 
 * [Accurate inference of genome-wide spatial expression with iSpatial](https://www.biorxiv.org/content/10.1101/2022.05.23.493144v2)
