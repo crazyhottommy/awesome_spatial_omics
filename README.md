@@ -51,6 +51,9 @@
 
 * [DeepST: A versatile graph contrastive learning framework for spatially informed clustering, integration, and deconvolution of spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2022.08.02.502407v1)
 
+### cell-cell interaction
+
+* [De novo reconstruction of cell interaction landscapes from single-cell spatial transcriptome data with DeepLinc](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02692-0)
 
 ### imputation
 
