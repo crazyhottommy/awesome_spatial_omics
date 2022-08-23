@@ -16,6 +16,7 @@
 ### benchmarking 
 
 * [Benchmarking spatial and single-cell transcriptomics integration methods for transcript distribution prediction and cell type deconvolution](https://www.nature.com/articles/s41592-022-01480-9) We found that Tangram, gimVI, and SpaGE outperformed other integration methods for predicting the spatial distribution of RNA transcripts, whereas Cell2location, SpatialDWLS, and RCTD are the top-performing methods for the cell type deconvolution of spots.
+* [Robust alignment of single-cell and spatial transcriptomes with CytoSPACE](https://www.biorxiv.org/content/10.1101/2022.05.20.488356v1.full.pdf)
 
 ### methods
 
@@ -43,6 +44,7 @@
 * [De novo reconstruction of cell interaction landscapes from single-cell spatial transcriptome data with DeepLinc](https://pubmed.ncbi.nlm.nih.gov/35659722/)
 * [Bayesian Modeling of Spatial Molecular Profiling Data via Gaussian Process](https://arxiv.org/abs/2012.03326)
 * [Decoding functional cell-cell communication events by multi-view graph learning on spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2022.06.22.496105v1)
+
 
 
 ### clustering
