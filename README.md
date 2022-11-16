@@ -26,7 +26,9 @@
 
 ### tools
 
+* [Monkeybread](https://monkeybread.readthedocs.io/en/latest/notebooks/tutorial.html) A python package developed at Immunitas to do spatial analysis for Merfish data.
 * [Giotto](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02286-2) a toolbox for integrative analysis and visualization of spatial expression data
+* [Voyager](https://pachterlab.github.io/voyager/index.html) is a package that facilitates exploratory spatial data analysis and visualization for spatial genomics data represented by SpatialFeatureExperiment objects.
 * [nnSVG](https://www.biorxiv.org/content/10.1101/2022.05.16.492124v1): scalable identification of spatially variable genes using nearest-neighbor Gaussian processes
 * [DestVI](https://www.nature.com/articles/s41587-022-01272-8) identifies continuums of cell types in spatial transcriptomics data. DestVI is available as part of the open-source software package scvi-tools (https://scvi-tools.org).
 * Here we present [spateo](https://spateo-release.readthedocs.io/en/latest/), a open source framework that welcomes community contributions for quantitative spatiotemporal modeling of spatial transcriptomics.
