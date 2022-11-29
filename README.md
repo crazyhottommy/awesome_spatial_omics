@@ -13,6 +13,7 @@
 
 ### tutorial
 
+* [Orchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor](https://lmweber.org/OSTA-book/)
 * [Deconvolution vs Clustering Analysis for Multi-cellular Pixel-Resolution Spatially Resolved Transcriptomics Data](https://jef.works/blog/2022/05/03/deconvolution-vs-clustering/) A blog post by Jean Fan.
 
 ### benchmarking 
