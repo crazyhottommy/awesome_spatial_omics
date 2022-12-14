@@ -69,6 +69,8 @@
 
 * [De novo reconstruction of cell interaction landscapes from single-cell spatial transcriptome data with DeepLinc](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02692-0)
 
+* [Modeling intercellular communication in tissues using spatial graphs of cells](https://www.nature.com/articles/s41587-022-01467-z)
+
 ### imputation
 
 * [Accurate inference of genome-wide spatial expression with iSpatial](https://www.biorxiv.org/content/10.1101/2022.05.23.493144v2)
