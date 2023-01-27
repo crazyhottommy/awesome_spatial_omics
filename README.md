@@ -55,6 +55,10 @@
 
 * [A statistical method to uncover gene expression changes in spatial transcriptomics](https://www.nature.com/articles/s41592-022-01576-2) Cell type-specific inference of differential expression ([C-SIDE](https://github.com/dmcable/spacexr)) is a statistical model that identifies which genes (within a determined cell type) are differentially expressed on the basis of spatial position, pathological changes or cell–cell interactions. 
 
+### integration 
+
+* [Probabilistic embedding, clustering, and alignment for integrating spatial transcriptomics data with PRECAST](https://www.nature.com/articles/s41467-023-35947-w)
+
 ### 3D reconstruction
 
 * [Alignment and integration of spatial transcriptomics data](https://www.nature.com/articles/s41592-022-01459-6)
