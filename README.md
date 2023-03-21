@@ -25,6 +25,7 @@
 ### database
 
 * [SODB facilitates comprehensive exploration of spatial omics data](https://www.nature.com/articles/s41592-023-01773-7) website https://gene.ai.tencent.com/SpatialOmics/
+* [Museum of Spatial Transcriptomics](https://pachterlab.github.io/LP_2021/index.html)
 
 ### methods
 
