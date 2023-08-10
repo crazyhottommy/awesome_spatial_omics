@@ -58,9 +58,13 @@
 * [Decoding functional cell-cell communication events by multi-view graph learning on spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2022.06.22.496105v1)
 * [BANKSY](https://www.biorxiv.org/content/10.1101/2022.04.14.488259v1) unifies cell-type clustering and domain segmentation by constructing a product space of cells' own and microenvironment transcriptomes. [R](https://github.com/prabhakarlab/Banksy) and [python](https://github.com/prabhakarlab/Banksy_py) code.  
 
+### Deconvolution
+* spacedeconv is a unified interface to 31 deconvolution tools with a focus on spatial transcriptomics datasets. The package is able to directly estimate cell type proportions of immune cells and can deconvolute any cell type if an annotation single-cell reference dataset is available https://github.com/omnideconv/spacedeconv
+  
 ### Differential expression
 
-* [A statistical method to uncover gene expression changes in spatial transcriptomics](https://www.nature.com/articles/s41592-022-01576-2) Cell type-specific inference of differential expression ([C-SIDE](https://github.com/dmcable/spacexr)) is a statistical model that identifies which genes (within a determined cell type) are differentially expressed on the basis of spatial position, pathological changes or cell–cell interactions. 
+* [A statistical method to uncover gene expression changes in spatial transcriptomics](https://www.nature.com/articles/s41592-022-01576-2) Cell type-specific inference of differential expression ([C-SIDE](https://github.com/dmcable/spacexr)) is a statistical model that identifies which genes (within a determined cell type) are differentially expressed on the basis of spatial position, pathological changes or cell–cell interactions.
+* Niche differential gene expression analysis in spatial transcriptomics data identifies context-dependent cell-cell interactions https://www.biorxiv.org/content/10.1101/2023.01.03.522646v1
 
 ### integration 
 
