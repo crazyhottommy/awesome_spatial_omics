@@ -56,6 +56,15 @@ Generally grouped according to [Rao et al](https://www.nature.com/articles/s4158
 * **HiPR-FISH** - [Highly Multiplexed Spatial Mapping of Microbial Communities](10.1038/s41586-020-2983-4)
 * **EEL-FISH** - [Scalable in situ single-cell profiling by electrophoretic capture of mRNA using EEL FISH](https://www.nature.com/articles/s41587-022-01455-3)
 
+### normalization
+
+* [Gene count normalization in single-cell imaging-based spatially resolved transcriptomic](https://www.biorxiv.org/content/10.1101/2023.08.30.555624v1)
+* >Spatial omics data analysts sometimes use the “log1p” (y=log[1+x’]) transform incorrectly. Key fact: x’ represents normalized, not raw, umis/spot counts. And it really matters how you normalize! The figure shows three normalizations of the raw count
+  
+![image](https://github.com/crazyhottommy/awesome_spatial_omics/assets/4106146/c09126a3-9876-48cf-9984-1102e079c7c8)
+
+https://twitter.com/shyam_lab/status/1698170321155850433?s=51&t=sLukUyq0ReWrcwOwgUR_XA
+
 ### Computational Tools
 
 * [Monkeybread](https://monkeybread.readthedocs.io/en/latest/notebooks/tutorial.html) A python package developed at Immunitas to do spatial analysis for Merfish data.
