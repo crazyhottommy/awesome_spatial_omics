@@ -109,6 +109,7 @@ https://twitter.com/shyam_lab/status/1698170321155850433?s=51&t=sLukUyq0ReWrcwOw
 * [High-resolution alignment of single-cell and spatial transcriptomes with CytoSPACE](https://www.nature.com/articles/s41587-023-01697-9)
 * [Search and Match across Spatial Omics Samples at Single-cell Resolution](https://www.biorxiv.org/content/10.1101/2023.08.13.552987v1)
 * [Alignment of spatial genomics data using deep Gaussian processes](https://www.nature.com/articles/s41592-023-01972-2)
+* [Starfysh integrates spatial transcriptomic and histologic data to reveal heterogeneous tumor–immune hubs](https://www.nature.com/articles/s41587-024-02173-8)
 
 #### 3D reconstruction
 
