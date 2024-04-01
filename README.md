@@ -103,6 +103,10 @@ https://twitter.com/shyam_lab/status/1698170321155850433?s=51&t=sLukUyq0ReWrcwOw
 * [A statistical method to uncover gene expression changes in spatial transcriptomics](https://www.nature.com/articles/s41592-022-01576-2) Cell type-specific inference of differential expression ([C-SIDE](https://github.com/dmcable/spacexr)) is a statistical model that identifies which genes (within a determined cell type) are differentially expressed on the basis of spatial position, pathological changes or cell–cell interactions.
 * Niche differential gene expression analysis in spatial transcriptomics data identifies context-dependent cell-cell interactions https://www.biorxiv.org/content/10.1101/2023.01.03.522646v1
 
+#### Spatial domain 
+
+* BANKSY unifies cell typing and tissue domain segmentation for scalable spatial omics data analysis https://www.nature.com/articles/s41588-024-01664-3
+* 
 #### Integration 
 
 * [Probabilistic embedding, clustering, and alignment for integrating spatial transcriptomics data with PRECAST](https://www.nature.com/articles/s41467-023-35947-w)
