@@ -2,6 +2,7 @@
 
 ### Review papers
 
+* [Spatial landscapes of cancers: insights and opportunities](https://doi.org/10.1038/s41571-024-00926-7)
 * [The emerging landscape of spatial profiling technologies](https://www.nature.com/articles/s41576-022-00515-3)
 * [The expanding vistas of spatial transcriptomics](https://www.nature.com/articles/s41587-022-01448-2)
 * [Exploring tissue architecture using spatial transcriptomics](https://www.nature.com/articles/s41586-021-03634-9)
