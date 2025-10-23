@@ -139,3 +139,4 @@ https://twitter.com/shyam_lab/status/1698170321155850433?s=51&t=sLukUyq0ReWrcwOw
 #### Interactive tool
 
 * [VITESSCE](https://github.com/vitessce/vitessce) Visual Integration Tool for Exploration of Spatial Single-Cell Experiments
+* [rakaia](https://github.com/camlab-bioml/rakaia): Scalable spatial data (proteomics, transcriptomics, imaging) in the browser, up to thousands of images 
