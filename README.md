@@ -99,6 +99,7 @@ https://twitter.com/shyam_lab/status/1698170321155850433?s=51&t=sLukUyq0ReWrcwOw
 #### Deconvolution
 * spacedeconv is a unified interface to 31 deconvolution tools with a focus on spatial transcriptomics datasets. The package is able to directly estimate cell type proportions of immune cells and can deconvolute any cell type if an annotation single-cell reference dataset is available https://github.com/omnideconv/spacedeconv
   
+* [FlashDeconv](https://github.com/cafferychen777/flashdeconv) - A high-performance spatial transcriptomics deconvolution method using structure-preserving randomized sketching. Processes 1 million spots in ~3 minutes with linear O(N) scaling. No GPU required. Supports Visium HD, Stereo-seq, and other high-resolution platforms.
 #### Differential expression
 
 * [A statistical method to uncover gene expression changes in spatial transcriptomics](https://www.nature.com/articles/s41592-022-01576-2) Cell type-specific inference of differential expression ([C-SIDE](https://github.com/dmcable/spacexr)) is a statistical model that identifies which genes (within a determined cell type) are differentially expressed on the basis of spatial position, pathological changes or cell–cell interactions.
