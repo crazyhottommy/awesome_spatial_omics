@@ -68,6 +68,7 @@ https://twitter.com/shyam_lab/status/1698170321155850433?s=51&t=sLukUyq0ReWrcwOw
 
 ### Computational Tools
 
+* [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) An MCP server enabling spatial transcriptomics analysis via natural language. Built on the Model Context Protocol, ChatSpatial integrates 60+ methods across Python and R into a single conversational workflow for spatial domains, deconvolution, cell communication, trajectory analysis, and more. Supports Visium, Xenium, MERFISH, Slide-seq. [Paper](https://doi.org/10.64898/2026.02.26.708361) | [Docs](https://cafferyang.com/ChatSpatial/) | [PyPI](https://pypi.org/project/chatspatial/)
 * [Sopa](https://github.com/gustaveroussy/sopa)  enables processing and analyses of image-based spatial-omics using a standard data structure and output. We currently support the following technologies: Xenium, MERSCOPE, CosMX, PhenoCycler, MACSIMA, Hyperion. Sopa was designed for generability and low-memory consumption on large images (scales to 1TB+ images).
 * [Monkeybread](https://monkeybread.readthedocs.io/en/latest/notebooks/tutorial.html) A python package developed at Immunitas to do spatial analysis for Merfish data.
 * [Giotto](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02286-2) a toolbox for integrative analysis and visualization of spatial expression data
