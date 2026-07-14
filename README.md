@@ -68,6 +68,8 @@ https://twitter.com/shyam_lab/status/1698170321155850433?s=51&t=sLukUyq0ReWrcwOw
 
 ### Computational Tools
 
+* **DeepSpot** - [paper](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) - [code](https://github.com/ratschlab/DeepSpot): Leveraging spatial context for enhanced spatial transcriptomics prediction from H&E images.
+
 * [Sopa](https://github.com/gustaveroussy/sopa)  enables processing and analyses of image-based spatial-omics using a standard data structure and output. We currently support the following technologies: Xenium, MERSCOPE, CosMX, PhenoCycler, MACSIMA, Hyperion. Sopa was designed for generability and low-memory consumption on large images (scales to 1TB+ images).
 * [Monkeybread](https://monkeybread.readthedocs.io/en/latest/notebooks/tutorial.html) A python package developed at Immunitas to do spatial analysis for Merfish data.
 * [Giotto](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02286-2) a toolbox for integrative analysis and visualization of spatial expression data
