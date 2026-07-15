@@ -31,6 +31,8 @@
 
 * [SODB facilitates comprehensive exploration of spatial omics data](https://www.nature.com/articles/s41592-023-01773-7) [[website]](https://gene.ai.tencent.com/SpatialOmics/)
 * [Museum of Spatial Transcriptomics](https://pachterlab.github.io/LP_2021/index.html)
+* [TCGA virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) DeepSpot-M predicted transcriptome-wide ST for TCGA H&E (~28.7k slides / 32 cancer types) [[paper]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)
+* [HEST Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) DeepSpot-M predicted transcriptome-wide ST for 59 HEST-1k Xenium H&E slides [[paper]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)
 
 ### Methods
 Generally grouped according to [Rao et al](https://www.nature.com/articles/s41586-021-03634-9), though several current in situ sequencing methods also rely on ex situ sequencing
